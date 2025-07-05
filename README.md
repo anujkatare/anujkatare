@@ -1,4 +1,4 @@
-                                                             ANUJ KATARE
+
 - 👋 Hi, I’m @anujkatare ;
 - 👀 I’m interested in making projects which are different , kinda extraordinary;
 - 🌱 I’m currently learning database ;
